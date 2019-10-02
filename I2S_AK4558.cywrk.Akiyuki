@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>I2S_AK4558</v>
+<v>I2S_AK4558\I2S_AK4558</v>
+<v>I2S_AK4558\I2S_AK4558\TopDesign</v>
+<v>I2S_AK4558\I2S_AK4558\I2S_AK4558.cydwr</v>
+<v>I2S_AK4558\I2S_AK4558\I2S_AK4558.cydwr\Pins</v>
+<v>I2S_AK4558\I2S_AK4558\I2S_AK4558.cydwr\Analog</v>
+<v>I2S_AK4558\I2S_AK4558\I2S_AK4558.cydwr\DMA</v>
+<v>I2S_AK4558\I2S_AK4558\I2S_AK4558.cydwr\Clocks</v>
+<v>I2S_AK4558\I2S_AK4558\I2S_AK4558.cydwr\Interrupts</v>
+<v>I2S_AK4558\I2S_AK4558\I2S_AK4558.cydwr\System</v>
+<v>I2S_AK4558\I2S_AK4558\I2S_AK4558.cydwr\Directives</v>
+<v>I2S_AK4558\I2S_AK4558\CM0p (Core 0)\ARM GCC Generic\cy8c6xx7_cm0plus.ld</v>
+<v>I2S_AK4558\I2S_AK4558\CM0p (Core 0)\ARM IAR Generic\cy8c6xx7_cm0plus.icf</v>
+<v>I2S_AK4558\I2S_AK4558\CM0p (Core 0)\ARM MDK Generic\cy8c6xx7_cm0plus.scat</v>
+<v>I2S_AK4558\I2S_AK4558\CM0p (Core 0)\Header Files</v>
+<v>I2S_AK4558\I2S_AK4558\CM0p (Core 0)\Source Files\ARM GCC Generic</v>
+<v>I2S_AK4558\I2S_AK4558\CM0p (Core 0)\Source Files\ARM GCC Generic\startup_psoc6_01_cm0plus.S</v>
+<v>I2S_AK4558\I2S_AK4558\CM0p (Core 0)\Source Files\ARM IAR Generic</v>
+<v>I2S_AK4558\I2S_AK4558\CM0p (Core 0)\Source Files\ARM IAR Generic\startup_psoc6_01_cm0plus.s</v>
+<v>I2S_AK4558\I2S_AK4558\CM0p (Core 0)\Source Files\ARM MDK Generic</v>
+<v>I2S_AK4558\I2S_AK4558\CM0p (Core 0)\Source Files\ARM MDK Generic\startup_psoc6_01_cm0plus.s</v>
+<v>I2S_AK4558\I2S_AK4558\CM0p (Core 0)\Source Files\main_cm0p.c</v>
+<v>I2S_AK4558\I2S_AK4558\CM0p (Core 0)\Source Files\system_psoc6_cm0plus.c</v>
+<v>I2S_AK4558\I2S_AK4558\CM4 (Core 1)</v>
+<v>I2S_AK4558\I2S_AK4558\CM4 (Core 1)\ARM GCC Generic\cy8c6xx7_cm4_dual.ld</v>
+<v>I2S_AK4558\I2S_AK4558\CM4 (Core 1)\ARM IAR Generic\cy8c6xx7_cm4_dual.icf</v>
+<v>I2S_AK4558\I2S_AK4558\CM4 (Core 1)\ARM MDK Generic\cy8c6xx7_cm4_dual.scat</v>
+<v>I2S_AK4558\I2S_AK4558\CM4 (Core 1)\Header Files</v>
+<v>I2S_AK4558\I2S_AK4558\CM4 (Core 1)\Header Files\ak4558.h</v>
+<v>I2S_AK4558\I2S_AK4558\CM4 (Core 1)\Source Files</v>
+<v>I2S_AK4558\I2S_AK4558\CM4 (Core 1)\Source Files\ARM GCC Generic\startup_psoc6_01_cm4.S</v>
+<v>I2S_AK4558\I2S_AK4558\CM4 (Core 1)\Source Files\ARM IAR Generic\startup_psoc6_01_cm4.s</v>
+<v>I2S_AK4558\I2S_AK4558\CM4 (Core 1)\Source Files\ARM MDK Generic\startup_psoc6_01_cm4.s</v>
+<v>I2S_AK4558\I2S_AK4558\CM4 (Core 1)\Source Files\main_cm4.c</v>
+<v>I2S_AK4558\I2S_AK4558\CM4 (Core 1)\Source Files\system_psoc6_cm4.c</v>
+<v>I2S_AK4558\I2S_AK4558\Shared Files</v>
+<v>I2S_AK4558\I2S_AK4558\Shared Files\cy_ble_config.h</v>
+<v>I2S_AK4558\I2S_AK4558\Shared Files\cyapicallbacks.h</v>
+<v>I2S_AK4558\I2S_AK4558\Shared Files\sine.csv</v>
+<v>I2S_AK4558\I2S_AK4558\Shared Files\system_psoc6.h</v>
+<v>I2S_AK4558\I2S_AK4558\Shared Files\wave.h</v>
+<v>I2S_AK4558\I2S_AK4558\Generated_Source\PSoC6</v>
+<v>I2S_AK4558\I2S_AK4558\Generated_Source\PSoC6\I2C</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>I2S_AK4558</v>
+<v>I2S_AK4558\I2S_AK4558</v>
+<v>I2S_AK4558\I2S_AK4558\TopDesign</v>
+<v>I2S_AK4558\I2S_AK4558\I2S_AK4558.cydwr</v>
+<v>I2S_AK4558\I2S_AK4558\I2S_AK4558.cydwr\Pins</v>
+<v>I2S_AK4558\I2S_AK4558\I2S_AK4558.cydwr\Analog</v>
+<v>I2S_AK4558\I2S_AK4558\I2S_AK4558.cydwr\DMA</v>
+<v>I2S_AK4558\I2S_AK4558\I2S_AK4558.cydwr\Clocks</v>
+<v>I2S_AK4558\I2S_AK4558\I2S_AK4558.cydwr\Interrupts</v>
+<v>I2S_AK4558\I2S_AK4558\I2S_AK4558.cydwr\System</v>
+<v>I2S_AK4558\I2S_AK4558\I2S_AK4558.cydwr\Directives</v>
+<v>I2S_AK4558\I2S_AK4558\CM0p (Core 0)</v>
+<v>I2S_AK4558\I2S_AK4558\CM4 (Core 1)</v>
+<v>I2S_AK4558\I2S_AK4558\CM4 (Core 1)\ARM GCC Generic</v>
+<v>I2S_AK4558\I2S_AK4558\CM4 (Core 1)\ARM IAR Generic</v>
+<v>I2S_AK4558\I2S_AK4558\CM4 (Core 1)\ARM MDK Generic</v>
+<v>I2S_AK4558\I2S_AK4558\CM4 (Core 1)\Header Files</v>
+<v>I2S_AK4558\I2S_AK4558\CM4 (Core 1)\Header Files\ak4558.h</v>
+<v>I2S_AK4558\I2S_AK4558\CM4 (Core 1)\Source Files</v>
+<v>I2S_AK4558\I2S_AK4558\CM4 (Core 1)\Source Files\ARM GCC Generic</v>
+<v>I2S_AK4558\I2S_AK4558\CM4 (Core 1)\Source Files\ARM IAR Generic</v>
+<v>I2S_AK4558\I2S_AK4558\CM4 (Core 1)\Source Files\ARM MDK Generic</v>
+<v>I2S_AK4558\I2S_AK4558\CM4 (Core 1)\Source Files\main_cm4.c</v>
+<v>I2S_AK4558\I2S_AK4558\CM4 (Core 1)\Source Files\system_psoc6_cm4.c</v>
+<v>I2S_AK4558\I2S_AK4558\Shared Files</v>
+<v>I2S_AK4558\I2S_AK4558\Shared Files\cy_ble_config.h</v>
+<v>I2S_AK4558\I2S_AK4558\Shared Files\cyapicallbacks.h</v>
+<v>I2S_AK4558\I2S_AK4558\Shared Files\sine.csv</v>
+<v>I2S_AK4558\I2S_AK4558\Shared Files\system_psoc6.h</v>
+<v>I2S_AK4558\I2S_AK4558\Shared Files\wave.h</v>
+<v>I2S_AK4558\I2S_AK4558\Generated_Source</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="I2S_AK4558">
+<ExpandedNodeIds>
+<v>I2S_AK4558</v>
+<v>I2S_AK4558\I2S_AK4558</v>
+<v>I2S_AK4558\I2S_AK4558\TopDesign</v>
+<v>I2S_AK4558\I2S_AK4558\TopDesign\TopDesign.cysch</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>I2S_AK4558</v>
+<v>I2S_AK4558\I2S_AK4558</v>
+<v>I2S_AK4558\I2S_AK4558\TopDesign</v>
+<v>I2S_AK4558\I2S_AK4558\TopDesign\TopDesign.cysch</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="I2S_AK4558">
+<ExpandedNodeIds>
+<v>I2S_AK4558</v>
+<v>I2S_AK4558\I2S_AK4558</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM0p</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM0p\ARM_GCC_541</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM0p\ARM_GCC_541\Debug</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM0p\ARM_GCC_541\Debug\Listing Files</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_clk.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_device.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_efuse.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_flash.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_gpio.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_i2s.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ipc_drv.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ipc_pipe.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ipc_sema.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_lvd.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_profile.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_prot.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_scb_common.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_scb_ezi2c.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_scb_i2c.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_scb_spi.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_scb_uart.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_sysanalog.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_sysclk.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_sysint.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_syslib.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_syslib_gcc.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_syspm.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_systick.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_trigmux.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_wdt.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM0p\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM0p\ARM_GCC_541\Debug\Listing Files\cyfitter_sysint_cfg.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM0p\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM0p\ARM_GCC_541\Debug\Listing Files\I2S.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM0p\ARM_GCC_541\Debug\Listing Files\main_cm0p.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM0p\ARM_GCC_541\Debug\Listing Files\startup_psoc6_01_cm0plus.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM0p\ARM_GCC_541\Debug\Listing Files\system_psoc6_cm0plus.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM0p\ARM_GCC_541\Debug\I2S_AK4558.elf</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM0p\ARM_GCC_541\Debug\I2S_AK4558.hex</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM0p\ARM_GCC_541\Debug\I2S_AK4558.map</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM0p\ARM_GCC_541\Release</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM0p\ARM_GCC_541\Release\Listing Files</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM0p\ARM_GCC_541\Release\Listing Files\cy_ble_clk.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM0p\ARM_GCC_541\Release\Listing Files\cy_device.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM0p\ARM_GCC_541\Release\Listing Files\cy_efuse.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM0p\ARM_GCC_541\Release\Listing Files\cy_flash.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM0p\ARM_GCC_541\Release\Listing Files\cy_gpio.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM0p\ARM_GCC_541\Release\Listing Files\cy_i2s.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM0p\ARM_GCC_541\Release\Listing Files\cy_ipc_drv.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM0p\ARM_GCC_541\Release\Listing Files\cy_ipc_pipe.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM0p\ARM_GCC_541\Release\Listing Files\cy_ipc_sema.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM0p\ARM_GCC_541\Release\Listing Files\cy_lvd.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM0p\ARM_GCC_541\Release\Listing Files\cy_profile.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM0p\ARM_GCC_541\Release\Listing Files\cy_prot.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM0p\ARM_GCC_541\Release\Listing Files\cy_scb_common.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM0p\ARM_GCC_541\Release\Listing Files\cy_scb_ezi2c.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM0p\ARM_GCC_541\Release\Listing Files\cy_scb_i2c.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM0p\ARM_GCC_541\Release\Listing Files\cy_scb_spi.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM0p\ARM_GCC_541\Release\Listing Files\cy_scb_uart.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM0p\ARM_GCC_541\Release\Listing Files\cy_sysanalog.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM0p\ARM_GCC_541\Release\Listing Files\cy_sysclk.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM0p\ARM_GCC_541\Release\Listing Files\cy_sysint.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM0p\ARM_GCC_541\Release\Listing Files\cy_syslib.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM0p\ARM_GCC_541\Release\Listing Files\cy_syslib_gcc.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM0p\ARM_GCC_541\Release\Listing Files\cy_syspm.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM0p\ARM_GCC_541\Release\Listing Files\cy_systick.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM0p\ARM_GCC_541\Release\Listing Files\cy_trigmux.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM0p\ARM_GCC_541\Release\Listing Files\cy_wdt.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM0p\ARM_GCC_541\Release\Listing Files\cyfitter_cfg.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM0p\ARM_GCC_541\Release\Listing Files\cyfitter_sysint_cfg.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM0p\ARM_GCC_541\Release\Listing Files\cymetadata.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM0p\ARM_GCC_541\Release\Listing Files\I2C.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM0p\ARM_GCC_541\Release\Listing Files\I2S.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM0p\ARM_GCC_541\Release\Listing Files\main_cm0p.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM0p\ARM_GCC_541\Release\Listing Files\startup_psoc6_01_cm0plus.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM0p\ARM_GCC_541\Release\Listing Files\system_psoc6_cm0plus.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM0p\ARM_GCC_541\Release\I2S_AK4558.elf</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM0p\ARM_GCC_541\Release\I2S_AK4558.hex</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM0p\ARM_GCC_541\Release\I2S_AK4558.map</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM4</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM4\ARM_GCC_541</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM4\ARM_GCC_541\Debug</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM4\ARM_GCC_541\Debug\Listing Files</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_clk.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_device.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_efuse.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_flash.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_gpio.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_i2s.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ipc_drv.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ipc_pipe.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ipc_sema.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_lvd.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_profile.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_prot.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_scb_common.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_scb_ezi2c.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_scb_i2c.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_scb_spi.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_scb_uart.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_sysanalog.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_sysclk.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_sysint.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_syslib.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_syslib_gcc.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_syspm.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_systick.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_trigmux.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_wdt.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM4\ARM_GCC_541\Debug\Listing Files\cyfitter_sysint_cfg.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM4\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM4\ARM_GCC_541\Debug\Listing Files\I2S.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM4\ARM_GCC_541\Debug\Listing Files\main_cm4.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM4\ARM_GCC_541\Debug\Listing Files\startup_psoc6_01_cm4.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM4\ARM_GCC_541\Debug\Listing Files\system_psoc6_cm4.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM4\ARM_GCC_541\Debug\I2S_AK4558.elf</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM4\ARM_GCC_541\Debug\I2S_AK4558.hex</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM4\ARM_GCC_541\Debug\I2S_AK4558.map</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM4\ARM_GCC_541\Release</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM4\ARM_GCC_541\Release\Listing Files</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM4\ARM_GCC_541\Release\Listing Files\cy_ble_clk.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM4\ARM_GCC_541\Release\Listing Files\cy_device.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM4\ARM_GCC_541\Release\Listing Files\cy_efuse.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM4\ARM_GCC_541\Release\Listing Files\cy_flash.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM4\ARM_GCC_541\Release\Listing Files\cy_gpio.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM4\ARM_GCC_541\Release\Listing Files\cy_i2s.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM4\ARM_GCC_541\Release\Listing Files\cy_ipc_drv.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM4\ARM_GCC_541\Release\Listing Files\cy_ipc_pipe.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM4\ARM_GCC_541\Release\Listing Files\cy_ipc_sema.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM4\ARM_GCC_541\Release\Listing Files\cy_lvd.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM4\ARM_GCC_541\Release\Listing Files\cy_profile.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM4\ARM_GCC_541\Release\Listing Files\cy_prot.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM4\ARM_GCC_541\Release\Listing Files\cy_scb_common.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM4\ARM_GCC_541\Release\Listing Files\cy_scb_ezi2c.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM4\ARM_GCC_541\Release\Listing Files\cy_scb_i2c.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM4\ARM_GCC_541\Release\Listing Files\cy_scb_spi.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM4\ARM_GCC_541\Release\Listing Files\cy_scb_uart.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM4\ARM_GCC_541\Release\Listing Files\cy_sysanalog.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM4\ARM_GCC_541\Release\Listing Files\cy_sysclk.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM4\ARM_GCC_541\Release\Listing Files\cy_sysint.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM4\ARM_GCC_541\Release\Listing Files\cy_syslib.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM4\ARM_GCC_541\Release\Listing Files\cy_syslib_gcc.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM4\ARM_GCC_541\Release\Listing Files\cy_syspm.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM4\ARM_GCC_541\Release\Listing Files\cy_systick.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM4\ARM_GCC_541\Release\Listing Files\cy_trigmux.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM4\ARM_GCC_541\Release\Listing Files\cy_wdt.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM4\ARM_GCC_541\Release\Listing Files\cyfitter_sysint_cfg.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM4\ARM_GCC_541\Release\Listing Files\cymetadata.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM4\ARM_GCC_541\Release\Listing Files\I2C.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM4\ARM_GCC_541\Release\Listing Files\I2S.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM4\ARM_GCC_541\Release\Listing Files\main_cm4.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM4\ARM_GCC_541\Release\Listing Files\startup_psoc6_01_cm4.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM4\ARM_GCC_541\Release\Listing Files\system_psoc6_cm4.lst</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM4\ARM_GCC_541\Release\I2S_AK4558.elf</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM4\ARM_GCC_541\Release\I2S_AK4558.hex</v>
+<v>I2S_AK4558\I2S_AK4558\CortexM4\ARM_GCC_541\Release\I2S_AK4558.map</v>
+<v>I2S_AK4558\I2S_AK4558\I2S_AK4558.gpdsc</v>
+<v>I2S_AK4558\I2S_AK4558\I2S_AK4558.rpt</v>
+<v>I2S_AK4558\I2S_AK4558\I2S_AK4558_timing.html</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>I2S_AK4558</v>
+<v>I2S_AK4558\I2S_AK4558</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>I2S_AK4558</v>
+<v>I2S_AK4558\I2S_AK4558</v>
+<v>I2S_AK4558\I2S_AK4558\PSoC 6 Architecture TRM</v>
+<v>I2S_AK4558\I2S_AK4558\PSoC 63 Family Datasheet</v>
+<v>I2S_AK4558\I2S_AK4558\Peripheral Driver Library</v>
+<v>I2S_AK4558\I2S_AK4558\System Reference Guides</v>
+<v>I2S_AK4558\I2S_AK4558\GPIO_PDL_v1_0</v>
+<v>I2S_AK4558\I2S_AK4558\GPIO_PDL_v1_0\GPIO_PDL_v1_0.pdf</v>
+<v>I2S_AK4558\I2S_AK4558\I2S_PDL_v2_0.pdf</v>
+<v>I2S_AK4558\I2S_AK4558\SCB_I2C_PDL_v2_0.pdf</v>
+<v>I2S_AK4558\I2S_AK4558\SysInt_PDL_v1_0.pdf</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>I2S_AK4558</v>
+<v>I2S_AK4558\I2S_AK4558</v>
+<v>I2S_AK4558\I2S_AK4558\PSoC 6 Architecture TRM</v>
+<v>I2S_AK4558\I2S_AK4558\PSoC 63 Family Datasheet</v>
+<v>I2S_AK4558\I2S_AK4558\Peripheral Driver Library</v>
+<v>I2S_AK4558\I2S_AK4558\System Reference Guides</v>
+<v>I2S_AK4558\I2S_AK4558\GPIO_PDL_v1_0</v>
+<v>I2S_AK4558\I2S_AK4558\GPIO_PDL_v1_0\GPIO_PDL_v1_0.pdf</v>
+<v>I2S_AK4558\I2S_AK4558\I2S_PDL_v2_0.pdf</v>
+<v>I2S_AK4558\I2S_AK4558\SCB_I2C_PDL_v2_0.pdf</v>
+<v>I2S_AK4558\I2S_AK4558\SysInt_PDL_v1_0.pdf</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+<dataGuid v="5f2be1a5-0687-4501-bb8c-cf21cb8211bf">
+<CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf type_name="CyDesigner.Common.ProjMgmt.GUI.CyBookmarkData" version="1">
+<indicators />
+</CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded />
+<OpenDocs>
+<name v=".\I2S_AK4558.cydsn\TopDesign\TopDesign.cysch" />
+<name v=".\I2S_AK4558.cydsn\I2S_AK4558.cydwr" />
+<name v=".\I2S_AK4558.cydsn\main_cm4.c" />
+<name v=".\I2S_AK4558.cydsn\Generated_Source\PSoC6\I2C.c" />
+<name v=".\I2S_AK4558.cydsn\Generated_Source\PSoC6\I2C.h" />
+<name v=".\I2S_AK4558.cydsn\wave.h" />
+<name v=".\I2S_AK4558.cydsn\Generated_Source\PSoC6\pdl\drivers\peripheral\scb\cy_scb_i2c.h" />
+<name v=".\I2S_AK4558.cydsn\Generated_Source\PSoC6\pdl\drivers\peripheral\scb\cy_scb_i2c.c" />
+<name v=".\I2S_AK4558.cydsn\Generated_Source\PSoC6\pdl\cmsis\include\core_cm4.h" />
+<name v=".\I2S_AK4558.cydsn\ak4558.h" />
+<name v=".\I2S_AK4558.cydsn\sine.csv" />
+<name v=".\I2S_AK4558.cydsn\main_cm0p.c" />
+</OpenDocs>
+<OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
+
+  Actipro Docking/MDI for WinForms
+  Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
+  http://www.actiprosoftware.com
+
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1578, 683" SelectedTabbedMdiWindow="21daf3dc-bf48-4f7f-b597-a51ba2827bfa"><DocumentWindow Key="C:\Users\Akiyuki\Documents\PSoC Creator\PSoC6BLEPrototypingKit_I2S_AK4558\I2S_AK4558.cydsn\TopDesign\TopDesign.cysch" Guid="a877cff4-1b98-497c-b819-3b4069360fdd" /><DocumentWindow Key="C:\Users\Akiyuki\Documents\PSoC Creator\PSoC6BLEPrototypingKit_I2S_AK4558\I2S_AK4558.cydsn\I2S_AK4558.cydwr" Guid="4fe633d9-67ea-4c97-b782-b7930c244152" /><DocumentWindow Key="C:\Users\Akiyuki\Documents\PSoC Creator\PSoC6BLEPrototypingKit_I2S_AK4558\I2S_AK4558.cydsn\main_cm4.c" Guid="6b6266e1-228f-42a3-b9c6-f75980ca8e1d" /><DocumentWindow Key="C:\Users\Akiyuki\Documents\PSoC Creator\PSoC6BLEPrototypingKit_I2S_AK4558\I2S_AK4558.cydsn\Generated_Source\PSoC6\I2C.c" Guid="210737b8-da74-4f33-bce8-90b46d3c7e24" /><DocumentWindow Key="C:\Users\Akiyuki\Documents\PSoC Creator\PSoC6BLEPrototypingKit_I2S_AK4558\I2S_AK4558.cydsn\Generated_Source\PSoC6\I2C.h" Guid="f9757439-32bf-4a19-87e7-ca57ba3c1d1e" /><DocumentWindow Key="C:\Users\Akiyuki\Documents\PSoC Creator\PSoC6BLEPrototypingKit_I2S_AK4558\I2S_AK4558.cydsn\wave.h" Guid="21daf3dc-bf48-4f7f-b597-a51ba2827bfa" /><DocumentWindow Key="C:\Users\Akiyuki\Documents\PSoC Creator\PSoC6BLEPrototypingKit_I2S_AK4558\I2S_AK4558.cydsn\Generated_Source\PSoC6\pdl\drivers\peripheral\scb\cy_scb_i2c.h" Guid="58847bf8-26d2-49e5-b773-8e37bb6c3b1f" /><DocumentWindow Key="C:\Users\Akiyuki\Documents\PSoC Creator\PSoC6BLEPrototypingKit_I2S_AK4558\I2S_AK4558.cydsn\Generated_Source\PSoC6\pdl\drivers\peripheral\scb\cy_scb_i2c.c" Guid="37af0ee5-05b1-4846-9db5-c43c6e86bb0b" /><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="d6d9a189-cc09-44dc-b39d-cacf4c400133" /><DocumentWindow Key="C:\Users\Akiyuki\Documents\PSoC Creator\PSoC6BLEPrototypingKit_I2S_AK4558\I2S_AK4558.cydsn\Generated_Source\PSoC6\pdl\cmsis\include\core_cm4.h" Guid="f379930e-7c9b-42a2-81f5-98a524e81cc4" /><DocumentWindow Key="C:\Users\Akiyuki\Documents\PSoC Creator\PSoC6BLEPrototypingKit_I2S_AK4558\I2S_AK4558.cydsn\ak4558.h" Guid="23869bba-3cd1-4501-824a-655b33ec20e6" /><DocumentWindow Key="C:\Users\Akiyuki\Documents\PSoC Creator\PSoC6BLEPrototypingKit_I2S_AK4558\I2S_AK4558.cydsn\sine.csv" Guid="d62f7a66-2923-420d-95a5-591d1591a6e5" /><DocumentWindow Key="C:\Users\Akiyuki\Documents\PSoC Creator\PSoC6BLEPrototypingKit_I2S_AK4558\I2S_AK4558.cydsn\main_cm0p.c" Guid="685a9299-00a2-4e0c-b2a4-8d5fd0488990" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+<config v="Release" />
+<AutoUpdate v="true" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>
